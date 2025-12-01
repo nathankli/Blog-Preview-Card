@@ -88,6 +88,11 @@ h1 {
   line-height: 150%;
 }
 
+h1:hover {
+  color: var(--clr-Yellow);
+  cursor: pointer;
+}
+
 .info {
   color: var(--clr-Gray-500);
   line-height: 150%;
